@@ -17,7 +17,19 @@ javac *.java
 java SimulacionAeropuerto
 ```
 
-Sugerencias:
-- Añade un `LICENSE` si quieres publicar el proyecto.
-- Usa GitHub Actions si quieres añadir compilación automática.
+Linux/Mac (bash):
 
+```javac *.java
+java SimulacionAeropuerto
+```
+
+
+Licencia:
+
+Este proyecto está licenciado bajo la MIT License. Consulta el archivo `LICENSE` en la raíz para ver el texto completo y los términos.
+
+Copyright (c) 2025 Marco Herrera Iborra
+
+Puedes usar, copiar y modificar este proyecto conforme a los términos de la MIT License, siempre que conserves el aviso de copyright y la licencia en las copias o distribuciones.
+
+Para más información sobre licencias de código, visita: https://choosealicense.com/
