@@ -1,4 +1,4 @@
-PCD - Simulación de Aviones y Semáforos
+Programación Concurrida y Distribuida - Simulación de Aviones y Semáforos
 
 Proyecto de ejemplo para la asignatura PCD: simulación de un aeropuerto con pistas y aviones.
 En SimulacionAeropuerto se pueden establecer el numero de pistas y aviones. Los aviones intentan acceder al recurso pista, pero son controlados por semáforos para ordenar las solicitudes, usos y liberaciones de las pistas.
