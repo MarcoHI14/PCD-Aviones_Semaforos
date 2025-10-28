@@ -8,7 +8,7 @@ Estructura:
 - Avion.java
 - SimulacionAeropuerto.java (clase principal)
 
-**Cómo compilar y ejecutar** (desde la raíz del proyecto):
+*Cómo compilar y ejecutar* (desde la raíz del proyecto):
 
 Windows (cmd.exe):
 
